@@ -10,4 +10,4 @@ I use HTML, CSS, JavaScript and React JS to build websites and web applications.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arminCicic&layout=compact"/>
