@@ -13,10 +13,5 @@ I use HTML, CSS, JavaScript and React JS to build websites and web applications.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arminCicic&layout=compact"/>
 
 
-Some of my projects:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arminCicic&repo=Cinephilia"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arminCicic&repo=Meditation"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=https://github.com/arminCicic/Meditation"/>
