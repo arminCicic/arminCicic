@@ -1,4 +1,4 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 - 🔭 I’m currently working on refactoring code on my ecommerce app in React JS.
 - 
