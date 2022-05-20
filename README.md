@@ -18,3 +18,5 @@ Some of my projects:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=arminCicic&repo=Cinephilia"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=arminCicic&repo=Meditation"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=https://github.com/arminCicic/Meditation"/>
