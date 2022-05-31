@@ -8,7 +8,7 @@
 
 I use HTML, CSS, JavaScript and React JS to build websites and web applications. You can check out some of my projects in my repositories, most of them are deployed and can be viewed by live demo link.
 
-# Check out my Portofolio page -> [Portofolio Page](https://portofolio-page-sigma.vercel.app/#page-top)
+## Check out my Portofolio page -> [Portofolio Page](https://portofolio-page-sigma.vercel.app/#page-top)
 
 
 
