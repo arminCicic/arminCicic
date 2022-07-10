@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on refactoring code on my ecommerce app in React JS.
+- 🔭 I’m currently working on new ecommerce app in React JS using MUI, Commerce.js and stripe.
 - 
 - 🌱 I’m currently learning TypeScript and perfecting my github skills.
 - 
