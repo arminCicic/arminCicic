@@ -2,8 +2,6 @@
 
 Front-End Web Developer with practical experience in building websites and web applications using JavaScript, Type Script, React JS and Angular.
 
-## Check out my -> [Portofolio Page](https://portofolio-page-sigma.vercel.app/#page-top)
-
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arminCicic&layout=compact"/>
