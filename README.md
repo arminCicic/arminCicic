@@ -1,12 +1,6 @@
 
 
-- 🔭 I’m currently working on new ecommerce app in React JS using MUI, Commerce.js and stripe.
-- 
-- 🌱 I’m currently learning TypeScript and perfecting my github skills.
-- 
-- 👯 I’m looking to collaborate on interesting projects in React JS.
-
-I use HTML, CSS, JavaScript and React JS to build websites and web applications. You can check out some of my projects in my repositories, most of them are deployed and can be viewed by live demo link.
+Front-End Web Developer with practical experience in building websites and web applications using JavaScript, Type Script, React JS and Angular.
 
 ## Check out my -> [Portofolio Page](https://portofolio-page-sigma.vercel.app/#page-top)
 
